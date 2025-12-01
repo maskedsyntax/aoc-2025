@@ -1,8 +1,6 @@
 from common import get_input
 
-
 input = get_input("input.txt")
-# print(input)
 
 dial = 50
 password = 0
